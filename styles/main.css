@@ -1,6 +1,7 @@
-<style>
+
   h1 {color: rgb(2, 2, 55);}
   h1 {font-size: 15pt;}
+
   body {
     background-color: rgb(246, 241, 227);
   }
@@ -9,5 +10,14 @@
   body {text-align: center;}
 .blue-text {color: blue;
 }
-
-</style
+.purple-text {color:rgb(106, 85, 111)}
+p {font-size: 12.5pt;}
+div {
+  width: 300px;
+  border: 0px;
+  margin:auto;
+  padding: 10px;
+  text-align: left;
+  font-size: 12.5pt;
+  justify-content: center;
+}
