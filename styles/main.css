@@ -14,6 +14,9 @@ p {
 .blue-text {
   color: blue;
 }
+.new-text {
+  color: rgb(106, 4, 4);
+}
 .purple-text {
   color:rgb(106, 85, 111)
 }
